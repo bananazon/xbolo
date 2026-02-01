@@ -2596,6 +2596,28 @@ TRY
       }
       if(centerTank)
         [self tankCenter:nil];
+      else {
+        // Auto-scroll: keep tank in view by checking if near edge
+        NSRect visRect = [boloView visibleRect];
+        Vec2f tankPos = client.players[client.player].tank;
+        float tankScreenX = (tankPos.x + 0.5) * 16.0;
+        float tankScreenY = (FWIDTH - (tankPos.y + 0.5)) * 16.0;
+
+        // Define margin from edge (in pixels) - scroll if tank gets within this distance
+        float margin = 128.0;
+
+        // Check if tank is near any edge of visible area
+        if (tankScreenX < visRect.origin.x + margin ||
+            tankScreenX > visRect.origin.x + visRect.size.width - margin ||
+            tankScreenY < visRect.origin.y + margin ||
+            tankScreenY > visRect.origin.y + visRect.size.height - margin) {
+          // Re-center tank in viewport
+          NSRect newRect = visRect;
+          newRect.origin.x = tankScreenX - visRect.size.width * 0.5;
+          newRect.origin.y = tankScreenY - visRect.size.height * 0.5;
+          [boloView scrollRectToVisible:newRect];
+        }
+      }
       [GSBoloView refresh];
 
       if (counter%2) {
