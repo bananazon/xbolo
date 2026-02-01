@@ -416,7 +416,7 @@ TRY
       [self drawLabel:"Paused" at:make2f((rect.origin.x + rect.size.width*0.5)/16.0, (256.0*16.0 - (rect.origin.y + rect.size.height*0.5))/16.0) withAttributes:[NSDictionary dictionaryWithObjectsAndKeys:[NSFont fontWithName:@"Helvetica" size:90], NSFontAttributeName, [NSColor whiteColor], NSForegroundColorAttributeName, nil]];
     }
     else {
-      [self drawLabel:"Resume in %d" at:make2f((rect.origin.x + rect.size.width*0.5)/16.0, (256.0*16.0 - (rect.origin.y + rect.size.height*0.5))/16.0) withAttributes:[NSDictionary dictionaryWithObjectsAndKeys:[NSFont fontWithName:@"Helvetica" size:90], NSFontAttributeName, [NSColor whiteColor], NSForegroundColorAttributeName, nil]];
+      [self drawLabel:[[NSString stringWithFormat:@"Resume in %d", client.pause] UTF8String] at:make2f((rect.origin.x + rect.size.width*0.5)/16.0, (256.0*16.0 - (rect.origin.y + rect.size.height*0.5))/16.0) withAttributes:[NSDictionary dictionaryWithObjectsAndKeys:[NSFont fontWithName:@"Helvetica" size:90], NSFontAttributeName, [NSColor whiteColor], NSForegroundColorAttributeName, nil]];
     }
   }
 
