@@ -45,10 +45,11 @@ Boats can sail up rivers, but not under the low floating bridges which are laid 
 
 ## Terrain
 On the island you will encounter different kinds of terrain and obstacles which have different properties.
+![Grass](docs/images/grass.png)
 
 | Terrain | Name | Top Speed | Special Notes |
 |---------------------------------|----------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| ![Grass]([docs/images/grass.png](docs/images/grass.png) | Grass | Medium | Most of the island is covered with grass. |
+| ![Grass](docs/images/grass.png) | Grass | Medium | Most of the island is covered with grass. |
 | ![Water](docs/images/water.png) | Water | Very slow (except when on a boat) | If you stay in water for too long (without a boat) then the tank's stocks of shells and mines will be depleted. |
 | ![Deep Sea](docs/images/deep-sea.png) | Deep Sea | Instant death (except when on a boat)   | If you stay in water for too long (without a boat) then the tank's stocks of shells and mines will be depleted. |
 | ![Moored Boat](docs/images/moored-boat.png) | Moored Boat | Fast | You can drive your tank onto moored boats to travel quickly by river and sea. |
