@@ -122,13 +122,23 @@ When mines explode, they leave craters which will slow down any tank which tries
 ## Mine Laying
 You can lay mines in two different ways - by sending the man out to bury them (as described in "Farming and Building" above) - or by just dropping them onto the ground where the tank stands by pressing the "Tab" key. This can be quicker, but all other tanks which are near to you will see mines that you lay this way. If you're out of shells and low on armour and being chased along the road by an enemy tank, remember this. Don't assume that you can kill him just by dropping mines in his path, because he will see mines you lay this way and will be able to avoid them.
 
+## Mine Clearing
+It is not normally necessary to change the range of the tank's gun, since shells hit the first obstacle in their path anyway. The time when you may want to control the range manually is when you want to deliberately land a shell on top of a mine to set it off. You can also use this if you suspect that you are near to an enemy minefield. Change range and fire at the same time and you will saturate a path in front of the tank and set off any mines which may be there.
+
+If you want to use these features, the targeting controls work like this:
+
+Press "decrease" once to turn on the targeting cursor.
+Press "decrease" again to bring the cursor nearer to the tank (shorter gun range).
+Press "increase" to move the cursor further away from the tank (longer range).
+Press "increase" again when the cursor is at maximum range to turn it off.
+
 ## The Screen
 The Info Boxes on the right hand side of the screen show the status of the various tanks, pillboxes and refueling bases in the game. The screen display is complicated but learning the simple colour conventions should make it easier to understand:
 
-A red square indicates a hostile tank/pillbox/base.
-A green circle indicates a friendly tank/pillbox/base.
-A hollow circle is a special case of the green circle (friendly) which indicates your own tank in the Tank Info display.
-Each icon also has a shrunken version which indicates a pillbox which is currently being transported by a hostile tank, a friendly tank or yourself, respectively.
+* A **red square** indicates a **hostile** tank/pillbox/base.
+* A **green circle** indicates a **friendly** tank/pillbox/base.
+* A **hollow circle** is a special case of the green circle (friendly) which indicates **your own tank** in the Tank Info display.
+Each icon also has a **shrunken version** which indicates a pillbox which is currently **being transported** by a hostile tank, a friendly tank or yourself, respectively.
 
 At the start of the game, all pillboxes are indicated by red squares because they are all hostile to you, but the drawn in a chequer-board pattern. This enables you to distinguish between pillboxes which are just hostile to everyone because no-one has captured them yet, and pillboxes which are actively hostile because they are now loyal to an enemy tank.
 
@@ -160,9 +170,9 @@ Similarly, all refueling bases are initially friendly so they are indicated by a
 
 The map view in the centre of the window uses the same basic red/green colour scheme as the status indicators:
 
-* Tanks are identified by the colour of the turret. **Red** indicates a **hostile** tank, and green a friendly one. To make sure you never get confused when there are a lot of tanks on the screen, your own tank is always marked by a black turret to make it stand out clearly.
+* Tanks are identified by the colour of the turret. **Red** indicates a **hostile** tank, and green a friendly one. To make sure you never get confused when there are a lot of tanks on the screen, **your own tank** is always marked by a **black turret** to make it stand out clearly.
 * Refueling bases are initially shown with a dotted pattern, which becomes green when you capture them. In a hostile refueling base the marking is red instead.
-* You can tell whether a pillbox is hostile by looking at the colour of the guns sticking out of it. Hostile pillboxes have red guns, friendly ones are shown with green guns. You can also by looking at a pillbox is how damaged it is, and this will give you some idea of how many more hits are required to destroy it.
+* You can tell whether a pillbox is hostile by looking at the colour of the guns sticking out of it. Hostile pillboxes have **red** guns, friendly ones are shown with **green** guns. You can also by looking at a pillbox is how damaged it is, and this will give you some idea of how many more hits are required to destroy it.
 
 For those who are red/green colour blind, a menu option is provided to switch Bolo to an alternative colour scheme.
 
