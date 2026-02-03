@@ -22,12 +22,18 @@ Another important factor of Bolo is that it is not a two player game, where your
 ## Driving the Tank
 XBolo's default settings are pretty abysmal. I would suggest remapping your keys to match the layout of the original.
 
-```html
-<table style="display: inline-block; margin-right: 20px;">
-  <tr><th>Left Hand</th></tr>
-  <tr><td>Accelerate</td><td>Q</td></tr>
-  <tr><td>Decelerate</td><td>S</td></tr>
-  <tr><td>Fire Tank</td><td>Space</td></tr>
-  <tr><td>Lay Mine</td><td>Tab</td></tr>
-</table>
-```
+| Left Hand             |       |
+|-----------------------|-------|
+| Accelerate            |   Q   |
+| Decelerate            |   S   |
+| Fire Tank             | Space |
+| Lay Mine              |  Tab  |
+
+| Right Hand            |       |
+|-----------------------|-------|
+| Turn Counterclockwise |   O   |
+| Turn Clockwise        |   P   |
+| Increase Gun Range    |   L   |
+| Decrease Gun Range    |   ;   |
+| Tank View             | Enter |
+| Pillbox View          |   '   |
