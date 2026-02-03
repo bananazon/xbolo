@@ -81,10 +81,9 @@ The object of the game is, eventually, to have captured all of these refueling b
 | ![Place or Repair Pillbox](https://github.com/user-attachments/assets/809dc586-2c86-4669-9f7f-d1a20285b3ec) | Place or Repair Pillbox |
 | ![Lay Mine](https://github.com/user-attachments/assets/e06a09aa-3523-46de-93cf-765a061f402d) | Lay Mine |
 
-
 To build, first select the mode you require by clicking on the appropriate button on the left side of the screen, and then click on the map.
 
-A man will leave the tank, run to the square, build the required object, and return to the tank. <u>You can only build if you have sufficient building resources</u>>, so you will need to farm trees first before you can build anything. Building a **road** or **bridge** or **building** costs you 1/2 a tree from the tank inventory and building a **pillbox** requires a whole tree. **Boats** are expensive - they cost five trees to build.
+A man will leave the tank, run to the square, build the required object, and return to the tank. <u>You can only build if you have sufficient building resources</u>, so you will need to farm trees first before you can build anything. Building a **road** or **bridge** or **building** costs you 1/2 a tree from the tank inventory and building a **pillbox** requires a whole tree. **Boats** are expensive - they cost five trees to build.
 
 Some other restrictions: You cannot build on deep sea, on a moored boat, or on forest (farm it or shoot it down first).
 
