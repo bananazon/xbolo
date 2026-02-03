@@ -25,13 +25,8 @@ XBolo's default settings are pretty abysmal. I would suggest remapping your keys
 | Left Hand             |       | Right Hand            |       |
 |-----------------------|-------|-----------------------|-------|
 | Accelerate            |   Q   | Turn Counterclockwise |   O   |
-|-----------------------|-------|-----------------------|-------|
 | Decelerate            |   S   | Turn Clockwise        |   P   |
-|-----------------------|-------|-----------------------|-------|
 | Fire Tank             | Space | Increase Gun Range    |   L   |  
-|-----------------------|-------|-----------------------|-------|
 | Lay Mine              |  Tab  | Decrease Gun Range    |   ;   |
-                                |-----------------------|-------|
                                 | Tank View             | Enter |
-                                |-----------------------|-------|
                                 | Pillbox View          |   '   |
