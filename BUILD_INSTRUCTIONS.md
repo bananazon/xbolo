@@ -19,7 +19,7 @@ https://github.com/bananazon/TCMPortMapper
 When cloning the XBolo repository for the first time:
 
 ```bash
-git clone https://github.com/zirman/xbolo.git
+git clone git@github.com:bananazon/xbolo.git
 cd xbolo
 git submodule update --init --recursive
 ```
