@@ -128,3 +128,46 @@ When mines explode, they leave craters which will slow down any tank which tries
 
 ## Mine Laying
 You can lay mines in two different ways - by sending the man out to bury them (as described in "Farming and Building" above) - or by just dropping them onto the ground where the tank stands by pressing the "Tab" key. This can be quicker, but all other tanks which are near to you will see mines that you lay this way. If you're out of shells and low on armour and being chased along the road by an enemy tank, remember this. Don't assume that you can kill him just by dropping mines in his path, because he will see mines you lay this way and will be able to avoid them.
+
+## The Screen
+The Info Boxes on the right hand side of the screen show the status of the various tanks, pillboxes and refueling bases in the game. The screen display is complicated but learning the simple colour conventions should make it easier to understand:
+
+A red square indicates a hostile tank/pillbox/base.
+A green circle indicates a friendly tank/pillbox/base.
+A hollow circle is a special case of the green circle (friendly) which indicates your own tank in the Tank Info display.
+Each icon also has a shrunken version which indicates a pillbox which is currently being transported by a hostile tank, a friendly tank or yourself, respectively.
+
+At the start of the game, all pillboxes are indicated by red squares because they are all hostile to you, but the drawn in a chequer-board pattern. This enables you to distinguish between pillboxes which are just hostile to everyone because no-one has captured them yet, and pillboxes which are actively hostile because they are now loyal to an enemy tank.
+
+Similarly, all refueling bases are initially friendly so they are indicated by a green circle, but the circle is drawn in a chequer-board pattern. This is so that you can tell the difference between bases you actually own, and bases which are just friendly because no-one else has captured them yet.
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/user-attachments/assets/2b960182-dcc8-4a5f-aa62-c590585fc29e">
+    </td>
+    <td style="vertical-align: middle; padding-left: 12px;">
+      <strong>Base Stocks Supply</strong><br>
+      Below the base indicators is the base stocks display. These indicate the stocks of the closest friendly refuelling base, if there is one nearby. The first bar represents the number of shells the base has in stock, the second bar represents the number of mines the base has in stock, and the bottom bar represents the amount of armour the base has in stock.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/user-attachments/assets/e874dc22-fcd7-4359-aa17-f08f5f98ed0f">
+    </td>
+    <td style="vertical-align: middle; padding-left: 12px;">
+      <strong>Current Stocks Display</strong><br>
+      To the left are similar indicators displaying the current stocks of your tank. The bars show the number or amount of shells, mines, armour and building materials that your tank has.
+    </td>
+  </tr>
+</table>
+
+The map view in the centre of the window uses the same basic red/green colour scheme as the status indicators:
+
+* Tanks are identified by the colour of the turret. Red indicates a hostile tank, and green a friendly one. To make sure you never get confused when there are a lot of tanks on the screen, your own tank is always marked by a black turret to make it stand out clearly.
+* Refueling bases are initially shown with a dotted pattern, which becomes green when you capture them. In a hostile refueling base the marking is red instead.
+* You can tell whether a pillbox is hostile by looking at the colour of the guns sticking out of it. Hostile pillboxes have red guns, friendly ones are shown with green guns. You can also by looking at a pillbox is how damaged it is, and this will give you some idea of how many more hits are required to destroy it.
+For those who are red/green colour blind, a menu option is provided to switch Bolo to an alternative colour scheme.
