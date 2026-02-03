@@ -20,7 +20,7 @@ XBolo's default settings are pretty abysmal. I would suggest remapping your keys
 | Left Hand             |       |
 |-----------------------|-------|
 | Accelerate            |   Q   |
-| Decelerate            |   S   |
+| Decelerate            |   A   |
 | Fire Tank             | Space |
 | Lay Mine              |  Tab  |
 
