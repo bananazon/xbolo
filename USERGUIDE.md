@@ -3,9 +3,9 @@
 ![Bolo](https://github.com/user-attachments/assets/ce95a941-ad86-4489-9ab3-c1112e81e568)
 
 ## History
-Bolo was originally a multi-player game written in 1987 for the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), a British microcomputer made by Acorn Computers of Cambridge in 1982.
+[Bolo](https://en.wikipedia.org/wiki/Bolo_(1987_video_game)) was originally a multi-player game written in 1987 for the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), a British microcomputer made by [Acorn Computers](https://en.wikipedia.org/wiki/Acorn_Computers) of Cambridge in 1982.
 
-Bolo has no connection with the game of the same name for the Apple II, although it is a similar game. The name is an unfortunate coincidence.
+Bolo has no connection with the game of the [same name](https://en.wikipedia.org/wiki/Bolo_(1982_video_game)) for the [Apple II](https://en.wikipedia.org/wiki/Apple_II), although it is a similar game. The name is an unfortunate coincidence.
 
 The game Bolo is fundamentally based on communication between the computers running the game, and on communication between the players working together as teams. Bolo is the Hindi word for communication.
 
