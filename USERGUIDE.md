@@ -80,11 +80,11 @@ The object of the game is, eventually, to have captured all of these refueling b
 ## Farming and Building
 | Symbol | |
 |-------------------------------------------|------------|
-| ![Farm Trees](docs/images/farm-trees.gif) | Farm Trees |
-| ![Build Roads or Bridges](docs/images/build-roads-or-bridges.gif) | Build Roads or Bridges |
-| ![Build Buildings or Boats](docs/images/build-buildings-or-boats.gif) | Build Buildings or Boats |
-| ![Place or Repair Pillbox](docs/images/place-or-repair-pillbox.gif) | Place or Repair Pillbox |
-| ![Lay Mine](docs/images/lay-mine.gif) | Lay Mine |
+| ![Farm Trees](https://github.com/user-attachments/assets/433b7490-ec30-4798-80eb-8fabecfcc95d) | Farm Trees |
+| ![Build Roads or Bridges](https://github.com/user-attachments/assets/237d5353-94e6-4cf0-af4d-711e0cde810a) | Build Roads or Bridges |
+| ![Build Buildings or Boats](https://github.com/user-attachments/assets/d7e9d270-3b77-40fe-9a21-9acea38c31f0) | Build Buildings or Boats |
+| ![Place or Repair Pillbox](https://github.com/user-attachments/assets/809dc586-2c86-4669-9f7f-d1a20285b3ec) | Place or Repair Pillbox |
+| ![Lay Mine](https://github.com/user-attachments/assets/e06a09aa-3523-46de-93cf-765a061f402d) | Lay Mine |
 
 
 To build, first select the mode you require by clicking on the appropriate button on the left side of the screen, and then click on the map.
