@@ -1,11 +1,13 @@
 # XBolo
 
-This is a set of instructions for XBolo. It was pretty much ripped from the original game's instructions. Some portions have been omitted as they do not apply to this version.
-
 ![Bolo](https://github.com/user-attachments/assets/ce95a941-ad86-4489-9ab3-c1112e81e568)
 
 ## History
-Bolo was originally a multi-player game written in 1987 for the BBC micro§, a British microcomputer made by Acorn Computers of Cambridge in 1982.
+Bolo was originally a multi-player game written in 1987 for the [BBC Micro](https://en.wikipedia.org/wiki/BBC_Micro), a British microcomputer made by Acorn Computers of Cambridge in 1982.
+
+Bolo has no connection with the game of the same name for the Apple II, although it is a similar game. The name is an unfortunate coincidence.
+
+The game Bolo is fundamentally based on communication between the computers running the game, and on communication between the players working together as teams. Bolo is the Hindi word for communication.
 
 ## The Game
 The game of Bolo is a tank battle set on an island, for up to 16 players, using separate computers and monitors, so that each cannot see what the others are doing. This enables players to lay minefields which others cannot see, and to hide under the cover of forest and watch (or ambush) other players without being seen.
