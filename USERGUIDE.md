@@ -45,7 +45,6 @@ Boats can sail up rivers, but not under the low floating bridges which are laid 
 
 ## Terrain
 On the island you will encounter different kinds of terrain and obstacles which have different properties.
-![Grass](docs/images/grass.png)
 
 | Terrain | Name | Top Speed | Special Notes |
 |---------------------------------|----------|-------------------------------------|-----------------------------------------------------------------------------------------------------------------|
