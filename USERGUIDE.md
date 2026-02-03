@@ -191,22 +191,21 @@ If you are forced to leave the keyboard briefly in the middle of a game, there i
 
 Other programmers have produced more ambitious "AI Brains" for Bolo which can defend your tank and base better than Standard Autopilot, and can also offer other facilities:
 
-**Opponents**
+#### Opponents
 
 If you have spare Macintosh computers, you can run automated opponents on them, to play against when you don't have human opponents.
 
-**Allies**
+#### Allies
 
 If you have spare Macintosh computers, you can run Bolo on them, ally those tanks with yours, and then hand control over to specialized ally Brains such as "Tonto" which will then follow you around the map as loyal servants.
 
-**Cyborgs**
+#### Cyborgs
 
 The most specialized AI Brains play in conjunction with you, and allow hybrid human/AI control of your tank. They can perform automatic targeting and mine clearing, control building and farming functions, or even provide "head-up displays" showing tactical information.
 
 These specialized Brains are also available from software archive sites and Internet News Groups. They should be placed into the "Brains" folder before you run Bolo, and will appear on the "Control" menu for you to select them.
 
 If you are an experienced programmer, you can also create your own Brains in C, C++, Pascal, or another language of your choice. Documentation is included with the Bolo package which describes how to do this.
-
 
 
 ## Source
