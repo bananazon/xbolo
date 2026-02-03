@@ -2,13 +2,7 @@
 
 This is a set of instructions for XBolo. It was pretty much ripped from the original game's instructions. Some portions have been omitted as they do not apply to this version.
 
-<table style="border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td style="vertical-align: middle; text-align: center; padding: 0; border: none;">
-      <img src="https://github.com/user-attachments/assets/ce95a941-ad86-4489-9ab3-c1112e81e568">
-    </td>
-  </tr>
-</table>
+![Bolo](https://github.com/user-attachments/assets/ce95a941-ad86-4489-9ab3-c1112e81e568)
 
 ## History
 Bolo was originally a multi-player game written in 1987 for the BBC micro§, a British microcomputer made by Acorn Computers of Cambridge in 1982.
