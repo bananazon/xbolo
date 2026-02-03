@@ -141,7 +141,7 @@ At the start of the game, all pillboxes are indicated by red squares because the
 
 Similarly, all refueling bases are initially friendly so they are indicated by a green circle, but the circle is drawn in a chequer-board pattern. This is so that you can tell the difference between bases you actually own, and bases which are just friendly because no-one else has captured them yet.
 
-<table cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td style="vertical-align: middle;">
       <img src="https://github.com/user-attachments/assets/2b960182-dcc8-4a5f-aa62-c590585fc29e" width="90" height="34">
@@ -153,7 +153,7 @@ Similarly, all refueling bases are initially friendly so they are indicated by a
   </tr>
 </table>
 
-<table cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; border-spacing: 0;">
   <tr>
     <td style="vertical-align: middle;">
       <img src="https://github.com/user-attachments/assets/e874dc22-fcd7-4359-aa17-f08f5f98ed0f" width="55" height="93">
