@@ -101,7 +101,7 @@ Your computer informs your allies' computers whenever you lay mines, so that the
 
 If the man gets shot by another player while outside the tank, you will not be able to build any more. A new man will be parachuted in for you, but this may take several minutes, during which time you will not be able to build anything. Forests grow all the time, so trees you farm will be replenished slowly.
 
-## Aliances
+## Alliances
 At first, when you capture a pillbox for yourself, it will shoot at all other players. When there are several people playing, one person does not have much chance of winning on his own, so you will want to work as a team with some of your friends. So that your pillboxes know not to shoot at your friends, a formal alliance must be declared. To do this:
 
 1. Select a person whose alliance you would like to join on the "Players" menu and select "Request Alliance" on the "Bolo" menu.
