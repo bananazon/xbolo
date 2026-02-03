@@ -48,4 +48,4 @@ On the island you will encounter different kinds of terrain and obstacles which 
 
 | Terrain                  | Name  | Top Speed | Special Notes                             |
 |--------------------------|-------|-----------|-------------------------------------------|
-|![](docs/images/grass.gif)| Grass | Medium    | Most of the island is covered with grass. |
+|![Grass](docs/images/grass.gif "Grass")| Grass | Medium    | Most of the island is covered with grass. |
