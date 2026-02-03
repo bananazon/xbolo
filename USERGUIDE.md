@@ -37,3 +37,15 @@ XBolo's default settings are pretty abysmal. I would suggest remapping your keys
 | Decrease Gun Range    |   ;   |
 | Tank View             | Enter |
 | Pillbox View          |   '   |
+
+## Beginning the Game
+When you start the game, your tank is out at sea, on boat. You should head towards the island and drive off the boat onto the land. You may have to be going quite quickly to leave the boat.
+
+Boats can sail up rivers, but not under the low floating bridges which are laid by tanks. To pass a bridge you must either leave the boat and proceed on land or shoot the bridge to destroy it. Do not rely too much on boats as they are extremely vulnerable - they are sunk by a single hit. If you are on a boat when this happens you will be dumped into the water and will be at the mercy of your attacker. If you are out in 'Deep Sea' (water shown with dark ripples in it) then your tank will sink and be destroyed immediately - so take care!
+
+## Terrain
+On the island you will encounter different kinds of terrain and obstacles which have different properties.
+
+| Terrain                  | Name  | Top Speed | Special Notes                             |
+|--------------------------|-------|-----------|-------------------------------------------|
+|![](docs/images/grass.gif)| Grass | Medium    | Most of the island is covered with grass. |
