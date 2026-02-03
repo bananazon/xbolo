@@ -66,7 +66,7 @@ On the right of the screen you will see an indication of the stocks of shells, m
 The object of the game is, eventually, to have captured all of these refueling bases.
 
 ## Farming and Building
-| Symbol | |
+| Symbol | Meaning |
 |-------------------------------------------|------------|
 | ![Farm Trees](https://github.com/user-attachments/assets/433b7490-ec30-4798-80eb-8fabecfcc95d) | Farm Trees |
 | ![Build Roads or Bridges](https://github.com/user-attachments/assets/237d5353-94e6-4cf0-af4d-711e0cde810a) | Build Roads or Bridges |
