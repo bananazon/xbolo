@@ -31,8 +31,7 @@ XBolo's default settings are pretty abysmal. I would suggest remapping your keys
 | Fire Tank             | Space | Increase Gun Range    |   L   |  
 |-----------------------|-------|-----------------------|-------|
 | Lay Mine              |  Tab  | Decrease Gun Range    |   ;   |
-|                       |       |-----------------------|-------|
+                                |-----------------------|-------|
                                 | Tank View             | Enter |
                                 |-----------------------|-------|
                                 | Pillbox View          |   '   |
-                                |                       |       |
