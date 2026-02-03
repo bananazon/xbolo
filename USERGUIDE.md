@@ -21,13 +21,13 @@ XBolo's default settings are pretty abysmal. I would suggest remapping your keys
 |-----------------------|-------|
 | Accelerate            |   Q   |
 | Decelerate            |   A   |
-| Fire Tank             | Space |
 | Lay Mine              |  Tab  |
 
 | Right Hand            |       |
 |-----------------------|-------|
 | Turn Counterclockwise |   O   |
 | Turn Clockwise        |   P   |
+| Fire Tank             | Space |
 | Increase Gun Range    |   L   |
 | Decrease Gun Range    |   ;   |
 | Tank View             | Enter |
