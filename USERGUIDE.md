@@ -167,7 +167,42 @@ Similarly, all refueling bases are initially friendly so they are indicated by a
 
 The map view in the centre of the window uses the same basic red/green colour scheme as the status indicators:
 
-* Tanks are identified by the colour of the turret. Red indicates a hostile tank, and green a friendly one. To make sure you never get confused when there are a lot of tanks on the screen, your own tank is always marked by a black turret to make it stand out clearly.
+* Tanks are identified by the colour of the turret. **Red** indicates a **hostile** tank, and green a friendly one. To make sure you never get confused when there are a lot of tanks on the screen, your own tank is always marked by a black turret to make it stand out clearly.
 * Refueling bases are initially shown with a dotted pattern, which becomes green when you capture them. In a hostile refueling base the marking is red instead.
 * You can tell whether a pillbox is hostile by looking at the colour of the guns sticking out of it. Hostile pillboxes have red guns, friendly ones are shown with green guns. You can also by looking at a pillbox is how damaged it is, and this will give you some idea of how many more hits are required to destroy it.
+
 For those who are red/green colour blind, a menu option is provided to switch Bolo to an alternative colour scheme.
+
+## Remote Views
+If you leave your base defended by pillboxes and go out attacking someone else, you may be worried that your own base could be under attack itself. You can check by occasionally switching back to a 'Pillbox View'. Each press of the pillbox view key cycles to the next pillbox which is owned by you (or your alliance). When in Pillbox view, you can also use the cursor keys to switch view between neighbouring pillboxes.
+
+## Notes:
+* The game is complicated, so there is no need to try to do everything the first time you play. To get the feel of the game, just find a refueling base and get some shells, shoot at each other a bit, and perhaps lay a few mines. As you play the game however, you will begin to discover that the key to success is not just fast reflexes and a good eye for aiming in one-to-one combat. Team-work counts. However good a player is at combat, if he suddenly runs into three allied tanks coming through a forest together, then he will not have much of a chance. Eventually, when permanent bases begin to be set up, planning and strategy become vital. The player who is still running round the map using mercenary 'if it moves kill it' tactics will find more and more that he can't get near to the enemies he wishes to attack because they are inside their fortresses, behind rows of accurate and deadly pillboxes.
+* Many players have problems driving the tank when they first play because they continually hold down the 'Q' key to try to make the tank go as fast as possible, especially when the tank is slowly plodding through marsh or water, and they want to get out quickly. What actually happens, is that as soon as they reach the road, the tank accelerates and they go flying off the other side of the road into the marsh again. Don't hold 'Q' down! Drive onto the road slowly, turn the tank round to face in the direction you want, and then press 'Q' to speed up.
+* When you come out of water, remember that you may have lost shells and mines, so check your inventory before you start shooting at anyone!
+* Remember that you can hide in forest. You can use this both to make surprise attacks, and to flee when being chased. If an enemy tries to chase you into forest, then he will probably waste most of his shells blowing trees away and it is likely that you will receive very little damage.
+* Remember that repairing a dead or damaged pillbox with your man never claims ownership of it for you. To claim ownership you must pick it up with your tank first.
+
+## Other Maps
+If you get bored of playing Bolo on Everard Island, you can play on other maps by clicking the "Choose Map" button in the Game Setup dialog. You can obtain other maps from software archive sites, Internet News Groups, or be creating your own using Bolo map editors (also available from software archive sites).
+
+### Brains
+If you are forced to leave the keyboard briefly in the middle of a game, there is no way to "pause" Bolo like other computer games, because there are other live human beings out on the network playing also, and you cannot pause the universe by clicking a button. You can however switch your tank to Autopilot control by selecting "Standard Autopilot" from the "Control" menu, and it will defend itself so that (hopefully) your tank will not have been destroyed by the time you return.
+
+Other programmers have produced more ambitious "AI Brains" for Bolo which can defend your tank and base better than Standard Autopilot, and can also offer other facilities:
+
+#### Opponents
+&nbsp;&nbsp;&nbsp;&nbsp;If you have spare Macintosh computers, you can run automated opponents on them, to play against when you don't have human opponents.
+#### Allies
+&nbsp;&nbsp;&nbsp;&nbsp;If you have spare Macintosh computers, you can run Bolo on them, ally those tanks with yours, and then hand control over to specialized ally Brains such as "Tonto" which will then follow you around the map as loyal servants.
+#### Cyborgs
+&nbsp;&nbsp;&nbsp;&nbsp;The most specialized AI Brains play in conjunction with you, and allow hybrid human/AI control of your tank. They can perform automatic targeting and mine clearing, control building and farming functions, or even provide "head-up displays" showing tactical information.
+
+These specialized Brains are also available from software archive sites and Internet News Groups. They should be placed into the "Brains" folder before you run Bolo, and will appear on the "Control" menu for you to select them.
+
+If you are an experienced programmer, you can also create your own Brains in C, C++, Pascal, or another language of your choice. Documentation is included with the Bolo package which describes how to do this.
+
+
+
+## Source
+This file was converted from this [page](https://dialup.party/~jolo/bolo/guides/bolomanual/)
